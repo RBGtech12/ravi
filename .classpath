@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/jar_files/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/jar_files/groovy-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/jar_files/rest-assured-common-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/xml-path-5.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/rest-assured-5.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/rest-assured-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/json-schema-validator-5.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/json-path-5.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/json-20230227.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/httpmime-4.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/httpclient-4.5.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/groovy-json-3.0.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/groovy-all-3.0.16-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/groovy-3.0.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/SeleniumTask/RestAssuredJars/RestAssuredJars/commons-lang3-3.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
